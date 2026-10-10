@@ -1,37 +1,85 @@
-# Mohamed Elhadad
+<div align="center">
 
-### .NET Developer · Computer Science Student
+<img src="https://raw.githubusercontent.com/foxelhadad812-design/foxelhadad812-design/main/assets/profile-banner.svg" alt="Mohamed Elhadad — .NET Developer" width="100%" />
 
-I build web applications with **C# and ASP.NET Core**, with a focus on clear backend design, practical database workflows, and user-facing features that solve real problems.
+<br/>
 
-**[Portfolio](https://foxelhadad812-design.github.io/portfolio/)** · **[GitHub](https://github.com/foxelhadad812-design)**
+<a href="https://foxelhadad812-design.github.io/portfolio/"><strong>Portfolio</strong></a>
+&nbsp; · &nbsp;
+<a href="https://github.com/foxelhadad812-design"><strong>GitHub</strong></a>
 
----
+<br/><br/>
 
-## What I work with
+<img src="https://img.shields.io/badge/C%23-Developer-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=222" alt="JavaScript" />
 
-**Backend**  C# · .NET · ASP.NET Core MVC / Web API · Entity Framework Core  
-**Data**  SQL Server · PostgreSQL  
-**Frontend**  HTML · CSS · JavaScript · Bootstrap  
-**Tools**  Git · GitHub Actions · Swagger / OpenAPI · xUnit
-
-I’m currently studying Computer Science at **EELU — Fayoum** and building projects that help me grow across the .NET stack.
-
-## Selected projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [MediCare](https://github.com/foxelhadad812-design/MediCare) | Clinic management platform for appointments, patient records, prescriptions, and role-based workflows. Includes an optional AI chat integration with a local fallback. | .NET 8 · ASP.NET Core MVC · EF Core · SQL Server |
-| [CourtBook](https://github.com/foxelhadad812-design/CourtBook) | Sports venue discovery and court booking application with booking and venue-management workflows. | .NET · EF Core |
-| [UniNest](https://github.com/foxelhadad812-design/uninest) | Student housing discovery platform. [View the frontend](https://foxelhadad812-design.github.io/uninest/). | .NET Web API · Web frontend |
-| [Portfolio](https://foxelhadad812-design.github.io/portfolio/) | A quick overview of my background and selected work. | Web |
-
-## Currently improving
-
-- Building reliable APIs and database-backed features
-- Writing maintainable, testable application code
-- Strengthening my full-stack .NET skills
+</div>
 
 ---
 
-*Open to learning, feedback, and collaboration on practical software projects.*
+## 👋 A little about me
+
+I’m a Computer Science student at **EELU — Fayoum**, building web applications with **C# and ASP.NET Core**. I enjoy turning real workflows into useful software, from designing the data model to shaping the experience people use.
+
+**Currently focused on:** backend development · relational databases · clean, testable code
+
+## 🚀 Projects I’m proud of
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 MediCare
+A clinic management platform for appointments, patient records, prescriptions, and role-based workflows. It includes an optional AI chat integration with a local fallback.
+
+**.NET 8 · ASP.NET Core MVC · EF Core · SQL Server**
+
+[Explore MediCare →](https://github.com/foxelhadad812-design/MediCare)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏟️ CourtBook
+A sports venue discovery and court booking application, with booking and venue-management workflows.
+
+**.NET · Entity Framework Core**
+
+[Explore CourtBook →](https://github.com/foxelhadad812-design/CourtBook)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏠 UniNest
+A student housing discovery platform with property search and a web frontend.
+
+**.NET Web API · Web frontend**
+
+[Explore UniNest →](https://github.com/foxelhadad812-design/uninest) · [View frontend →](https://foxelhadad812-design.github.io/uninest/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio
+A quick introduction to my background and selected work.
+
+[Visit my portfolio →](https://foxelhadad812-design.github.io/portfolio/)
+
+</td>
+</tr>
+</table>
+
+## 🧰 Tools I use
+
+`C#` · `.NET` · `ASP.NET Core MVC / Web API` · `Entity Framework Core` · `SQL Server` · `PostgreSQL` · `HTML` · `CSS` · `JavaScript` · `Git` · `GitHub Actions` · `Swagger` · `xUnit`
+
+---
+
+<div align="center">
+
+*Learning by building — and making each project a little better than the last.*
+
+</div>
