@@ -41,6 +41,12 @@ I build web applications and REST APIs with **C# and ASP.NET Core**, with a focu
 
 </div>
 
+## What I’m Working On
+
+- Building backend features with **ASP.NET Core Web API / MVC**.
+- Improving API design, validation, authorization, and database modeling.
+- Practicing automated testing and keeping project documentation useful for other developers.
+
 ## Featured Projects
 
 ### [MediCare — Clinic Management System](https://github.com/foxelhadad812-design/MediCare)
