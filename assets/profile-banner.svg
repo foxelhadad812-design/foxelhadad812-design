@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="44" y1="32" x2="1130" y2="358" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071426"/>
+      <stop offset=".55" stop-color="#0D2340"/>
+      <stop offset="1" stop-color="#102F50"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="70" y1="90" x2="610" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#69D5FF"/>
+      <stop offset="1" stop-color="#4D8DFF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(250 190 -160 210 1010 40)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2876C7" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#2876C7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#94BCE1" stroke-opacity=".075"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#glow)"/>
+  <rect width="1200" height="360" rx="26" fill="url(#grid)"/>
+  <circle cx="1070" cy="180" r="128" stroke="#63C8FF" stroke-opacity=".15"/>
+  <circle cx="1070" cy="180" r="91" stroke="#63C8FF" stroke-opacity=".22"/>
+  <circle cx="1070" cy="180" r="54" stroke="#63C8FF" stroke-opacity=".28"/>
+  <path d="M974 180h43l18-34 29 68 21-43h81" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1069" cy="180" r="6" fill="#75DBFF"/>
+  <rect x="79" y="72" width="6" height="207" rx="3" fill="url(#accent)"/>
+  <text x="112" y="124" fill="#9EB8D3" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="4">MOHAMED ELHADAD</text>
+  <text x="108" y="190" fill="#F2F7FC" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700">Building useful software.</text>
+  <text x="112" y="232" fill="#B7C9DC" font-family="Segoe UI,Arial,sans-serif" font-size="21">.NET Developer  ·  Computer Science Student</text>
+  <text x="112" y="286" fill="#73D6FF" font-family="Consolas,monospace" font-size="16">C#  /  ASP.NET Core  /  SQL</text>
+  <rect x="1001" y="275" width="138" height="34" rx="17" fill="#FFFFFF" fill-opacity=".08" stroke="#A8D6F5" stroke-opacity=".2"/>
+  <text x="1070" y="297" text-anchor="middle" fill="#CDE8FA" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">LEARN · BUILD · GROW</text>
+</svg>
